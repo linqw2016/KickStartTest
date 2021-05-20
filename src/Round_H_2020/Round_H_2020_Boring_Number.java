@@ -1,3 +1,5 @@
+package Round_H_2020;
+
 import java.util.*;
 
 public class Round_H_2020_Boring_Number {
